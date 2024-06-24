@@ -1,0 +1,36 @@
+<html>
+<head>
+<title<html texto</title>
+</head>
+<body bgcolor="#ooooff"text="#oooo8b"link="#98fb98"alink="#ffffff"vlink="#ff4500"></body>
+<body>
+<p>Nuevo prrafo</p>
+<p align="left"> Párrafo alineado a la izquierda.</p> 
+<p align="center"> Párrafo centrado. </p>
+<p align="right"> Párrafo alineado a la derecha. </p>
+<!-Vamos a ver cómo funciona el comentario y el atributo de fin de línea-->
+
+Este es un texto largo, que consiste de tres oraciones<br> 
+que podemos utilizar para mostrar cómo se aplica<br>
+el marcador para el fin de la línea. Esta etiqueta es usada con frecuencia para añadir una línea.<br>
+También es usada para añadir líneas en blanco a un documento.<br> <br>
+
+<!-Vamos a mostrar los estilos físicos de un texto -->
+
+<b>Texto en negritas</b> <br>
+<i>Texto inclinado</i> <br>
+<u>Texto subrayado </u> <br>
+<s>Texto tachado</s> <br>
+<big>Texto con letras más grandes</big> <br> <small>Texto con letras más pequeñas</small><br>
+<sub>Texto como subíndice</sub> <br>
+<sup>Texto como superíndice</sup> <br>
+<tt>Texto con anchura igual de las letras como la máquina de escribir</tt> <br>
+
+<!-Vamos a mostrar algunos estilos lógicos de un texto -->
+
+<p> El texto que vamos a mostrar contiene <em> énfasis</em> y un texto de tipo <strong> strong.</strong> </p>
+
+</body>
+</html>
+
+
